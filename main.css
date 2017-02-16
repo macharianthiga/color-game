@@ -1,0 +1,19 @@
+body{
+  background: #232323;
+}
+#wrapper{
+  max-width: 600px;
+  margin:auto;
+  margin-top: 50px;
+}
+.square{
+  width: 30%;
+  background: purple;
+  padding-bottom: 30%;
+  float: left;
+  margin:1.66%;
+}
+h1{
+  color: #fff;
+  text-align: center;
+}
