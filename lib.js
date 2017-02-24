@@ -85,6 +85,8 @@ function randomColor(){
     //change color of squares
     changerBox();
     //change color of the messages-Wrapper
-    document.querySelector("#messages-Wrapper").style.background = "#4278Ab"
+    document.querySelector("#messages-Wrapper").style.background = "#4278Ab";
+    //remove message from display
+      message.textContent = "";
 
   }
